@@ -1,0 +1,11 @@
+{
+  "versions": {
+    "2.0": "D:\\Factorio_2.0\\bin\\x64\\factorio.exe",
+    "2.1": "D:\\Factorio_2.1\\bin\\x64\\factorio.exe"
+  },
+  "mods_base_dir": "D:\\Factorio_Shared\\mods",
+  "saves_base_dir": "D:\\Factorio_Shared\\saves",
+  "active_version": "2.1",
+  "active_profile": "standart",
+  "auto_load_save": "12112112.zip"
+}
