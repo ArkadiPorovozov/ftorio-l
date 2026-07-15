@@ -85,17 +85,17 @@
     
     {
       "name": "Accumulator-V2",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "alien-biomes",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "alien-biomes-graphics",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -180,7 +180,7 @@
     
     {
       "name": "a_lot_of_cargo_pads",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -200,7 +200,7 @@
     
     {
       "name": "bellicos-and-aegis",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -215,7 +215,7 @@
     
     {
       "name": "Better_Starmap_Background",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -240,7 +240,7 @@
     
     {
       "name": "bplib",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -275,32 +275,32 @@
     
     {
       "name": "carna_assets",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "carna_assets_2",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "carna_assets_3",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "carna_assets_enemies",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "casting_plant",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "celestial-weather",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -310,7 +310,7 @@
     
     {
       "name": "Cerys-Moon-of-Fulgora",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -330,7 +330,7 @@
     
     {
       "name": "Cloning-vat-building",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -360,12 +360,12 @@
     
     {
       "name": "cr-commons",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "cr-extras",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -375,12 +375,12 @@
     
     {
       "name": "cubium",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "CursorEnhancements",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -445,12 +445,12 @@
     
     {
       "name": "elevated-rails-recolor",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "enhanced-shadows",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -510,7 +510,7 @@
     
     {
       "name": "Flare Stack",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -575,7 +575,7 @@
     
     {
       "name": "hd-plasma-duct",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -595,7 +595,7 @@
     
     {
       "name": "informatron",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -620,12 +620,12 @@
     
     {
       "name": "item-request-proxy-events",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "jetpack",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -650,12 +650,12 @@
     
     {
       "name": "landing_pad_range",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "lane-balancers",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -665,7 +665,7 @@
     
     {
       "name": "lex-aircraft",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -675,7 +675,7 @@
     
     {
       "name": "liquid_recycler",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -700,7 +700,7 @@
     
     {
       "name": "long_stack_inserter",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -710,7 +710,7 @@
     
     {
       "name": "machine-upgrades",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -720,7 +720,7 @@
     
     {
       "name": "matter_printer",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -735,7 +735,7 @@
     
     {
       "name": "mferrari_lib",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -750,12 +750,12 @@
     
     {
       "name": "Mini_Trains",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "module-category-defaults",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -765,7 +765,7 @@
     
     {
       "name": "molten_plastic",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -790,17 +790,17 @@
     
     {
       "name": "Moshine",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "Moshine-assets",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "muluna-graphics",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -820,7 +820,7 @@
     
     {
       "name": "nulla",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -855,7 +855,7 @@
     
     {
       "name": "paln-b-test",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -865,17 +865,17 @@
     
     {
       "name": "panglia_planet_assets",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "Paracelsin",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "Paracelsin-Graphics",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -940,17 +940,17 @@
     
     {
       "name": "PlanetsLib",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "plasma_crafter",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "plasma_handling",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1025,7 +1025,7 @@
     
     {
       "name": "rabbasca-underground",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1035,17 +1035,17 @@
     
     {
       "name": "red-calc",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "RenaiTransportation",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "ribbonia",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1065,7 +1065,7 @@
     
     {
       "name": "RocketCargoInsertion",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1075,12 +1075,12 @@
     
     {
       "name": "rubia",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "rubia-assets",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1090,17 +1090,17 @@
     
     {
       "name": "rz-quality-labs",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "SA-Juggernaut",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "SA-Scorpion",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1155,7 +1155,7 @@
     
     {
       "name": "se-space-trains",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1185,7 +1185,7 @@
     
     {
       "name": "secretas",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1290,17 +1290,17 @@
     
     {
       "name": "skewer_planet_vesta",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "skewer_planet_vesta_assets",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "skewer_planet_vesta_assets_2",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1325,37 +1325,37 @@
     
     {
       "name": "snouz-big-accumulator",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "snouz-big-solar-panel",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "snouz_better_asteroid_collector",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "snouz_better_substation",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "snouz_long_electric_gun_turret",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "snouz_space_platform_hull",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "SolarMatrix",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1395,7 +1395,7 @@
     
     {
       "name": "space-exploration-graphics-5",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1415,7 +1415,7 @@
     
     {
       "name": "space-platform-eta-fork",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1485,7 +1485,7 @@
     
     {
       "name": "Substructure",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1495,7 +1495,7 @@
     
     {
       "name": "sun_heat_and_cooling",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1530,7 +1530,7 @@
     
     {
       "name": "test12",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1570,22 +1570,22 @@
     
     {
       "name": "thinking_brain",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "tile-upgrade-planner-muluna",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "TimeTools",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "Tiny_Solar",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1660,7 +1660,7 @@
     
     {
       "name": "water-poles",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -1675,7 +1675,7 @@
     
     {
       "name": "yafla",
-      "enabled": true
+      "enabled": false
     },
     
     {

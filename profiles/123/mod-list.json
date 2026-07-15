@@ -40,7 +40,7 @@
     
     {
       "name": "1spa",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -200,17 +200,12 @@
     
     {
       "name": "bellicos-and-aegis",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "belt-turner",
       "enabled": false
-    },
-    
-    {
-      "name": "belt-yeet",
-      "enabled": true
     },
     
     {
@@ -284,18 +279,13 @@
     },
     
     {
-      "name": "carna_assets_3",
-      "enabled": true
-    },
-    
-    {
       "name": "carna_assets_enemies",
       "enabled": true
     },
     
     {
       "name": "casting_plant",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -305,7 +295,7 @@
     
     {
       "name": "celestial-weather-additions",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -360,11 +350,6 @@
     
     {
       "name": "cr-commons",
-      "enabled": true
-    },
-    
-    {
-      "name": "cr-extras",
       "enabled": true
     },
     
@@ -474,11 +459,6 @@
     },
     
     {
-      "name": "factorio-crash-site",
-      "enabled": true
-    },
-    
-    {
       "name": "factorissimo-2-notnotmelon",
       "enabled": false
     },
@@ -575,7 +555,7 @@
     
     {
       "name": "hd-plasma-duct",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -595,12 +575,12 @@
     
     {
       "name": "informatron",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "inserter-throughput-lib",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -655,7 +635,7 @@
     
     {
       "name": "lane-balancers",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -675,17 +655,12 @@
     
     {
       "name": "liquid_recycler",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "loaders-make-full-stacks",
       "enabled": false
-    },
-    
-    {
-      "name": "logistic-cannon-assets",
-      "enabled": true
     },
     
     {
@@ -729,11 +704,6 @@
     },
     
     {
-      "name": "mferrari_graphics_pack_1",
-      "enabled": true
-    },
-    
-    {
       "name": "mferrari_lib",
       "enabled": false
     },
@@ -745,12 +715,12 @@
     
     {
       "name": "minimalist-rails",
-      "enabled": false
+      "enabled": true
     },
     
     {
       "name": "Mini_Trains",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -765,7 +735,7 @@
     
     {
       "name": "molten_plastic",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -860,7 +830,7 @@
     
     {
       "name": "panglia_planet",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -875,11 +845,6 @@
     
     {
       "name": "Paracelsin-Graphics",
-      "enabled": true
-    },
-    
-    {
-      "name": "pid-combinator",
       "enabled": true
     },
     
@@ -945,12 +910,12 @@
     
     {
       "name": "plasma_crafter",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "plasma_handling",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -970,21 +935,6 @@
     
     {
       "name": "pretty-frozeta",
-      "enabled": false
-    },
-    
-    {
-      "name": "pyalienlife",
-      "enabled": false
-    },
-    
-    {
-      "name": "pyalienlifegraphics",
-      "enabled": false
-    },
-    
-    {
-      "name": "pyalienlifegraphics2",
       "enabled": false
     },
     
@@ -1015,17 +965,12 @@
     
     {
       "name": "quick-adjustable-inserters",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "rabbasca-assets",
       "enabled": false
-    },
-    
-    {
-      "name": "rabbasca-underground",
-      "enabled": true
     },
     
     {
@@ -1040,12 +985,12 @@
     
     {
       "name": "RenaiTransportation",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "ribbonia",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1315,7 +1260,7 @@
     
     {
       "name": "Smart_Inserters",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -1375,37 +1320,12 @@
     
     {
       "name": "space-exploration-graphics",
-      "enabled": false
-    },
-    
-    {
-      "name": "space-exploration-graphics-2",
-      "enabled": true
-    },
-    
-    {
-      "name": "space-exploration-graphics-3",
       "enabled": true
     },
     
     {
       "name": "space-exploration-graphics-4",
       "enabled": false
-    },
-    
-    {
-      "name": "space-exploration-graphics-5",
-      "enabled": true
-    },
-    
-    {
-      "name": "space-exploration-menu-simulations",
-      "enabled": true
-    },
-    
-    {
-      "name": "space-exploration-postprocess",
-      "enabled": true
     },
     
     {
@@ -1585,7 +1505,7 @@
     
     {
       "name": "Tiny_Solar",
-      "enabled": true
+      "enabled": false
     },
     
     {
@@ -1604,32 +1524,7 @@
     },
     
     {
-      "name": "turret-activation-delay",
-      "enabled": true
-    },
-    
-    {
-      "name": "TwoMoreTurrets",
-      "enabled": true
-    },
-    
-    {
       "name": "valerian-planets",
-      "enabled": false
-    },
-    
-    {
-      "name": "valves",
-      "enabled": true
-    },
-    
-    {
-      "name": "valves-lib",
-      "enabled": true
-    },
-    
-    {
-      "name": "vatbrain-no-talking",
       "enabled": false
     },
     
@@ -1654,18 +1549,8 @@
     },
     
     {
-      "name": "Warp-Drive-Machine",
-      "enabled": true
-    },
-    
-    {
       "name": "water-poles",
       "enabled": false
-    },
-    
-    {
-      "name": "water-rods",
-      "enabled": true
     },
     
     {
@@ -1680,7 +1565,7 @@
     
     {
       "name": "zalupa",
-      "enabled": false
+      "enabled": true
     },
     
     {
